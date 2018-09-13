@@ -41,8 +41,8 @@ def mergeSort(l1, l2):
     s3 = sortTwoSortedLists(l1,l2)
     return s3
 
-list1 = [9,7,5,3,4]
-list2 = [23,14,6,2,0]
+list1 = [-9,7,5,3,4]
+list2 = [23,-14,6,2,0]
 
 print("list 1")
 print(list1)
